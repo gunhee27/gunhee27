@@ -2,7 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&size=40&pause=1000&color=9E9E9E&random=false&center=true&Center=true&width=1000&lines=삐약이+개발자+성장기)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunhee27&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunhee27&show_icons=true&title_color=FBC02D&locale=kr&icon_color=FFD400)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gunhee27"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **gunhee27/gunhee27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
